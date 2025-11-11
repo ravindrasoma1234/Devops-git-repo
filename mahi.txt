@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 hello team lead
 
 hey team how are you!
 
 hii friends
+=======
+>>>>>>> parent of b8939df (added in mahi.txt file few line messages)
